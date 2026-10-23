@@ -1,0 +1,8 @@
+*.o
+logs/
+backups/
+scripts/
+storage/
+connect.txt
+mounting.txt
+postgres-data.ext4
