@@ -6,3 +6,4 @@ storage/
 connect.txt
 mounting.txt
 postgres-data.ext4
+install/
